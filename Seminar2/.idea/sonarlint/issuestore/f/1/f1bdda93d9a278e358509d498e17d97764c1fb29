@@ -1,0 +1,14 @@
+
+jpython:S1192²"JDefine a constant instead of duplicating this literal "Dark Mode" 4 times.(¶½ÒÊ8”·ñøĞ1
+tpython:S1192º"ODefine a constant instead of duplicating this literal "Shrani podatke" 4 times.(úˆÍüÿÿÿÿ8”·ñøĞ1
+mpython:S1192J"IDefine a constant instead of duplicating this literal "<Return>" 4 times.(õÁï«ùÿÿÿÿ8”·ñøĞ1
+npython:S1192¶"IDefine a constant instead of duplicating this literal "PoÄisti" 4 times.(ÿÁ‹õûÿÿÿÿ8”·ñøĞ1
+tpython:S1192"PDefine a constant instead of duplicating this literal "Data confirmed." 4 times.(ÅšÏÛıÿÿÿÿ8”·ñøĞ1
+spython:S3776Q"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ò¤¤ñ8”·ñøĞ1
+Mpython:S1172É".Remove the unused function parameter "adults".(ÅİƒI8”·ñøĞ1
+‚python:S117ñ"^Rename this parameter "checkboxVar_oseba1" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô²ßùÿÿÿÿ8”·ñøĞ1
+‚python:S117ñ"^Rename this parameter "checkboxVar_oseba2" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô²ßùÿÿÿÿ8”·ñøĞ1
+‡python:S117Á"cRename this local variable "checkboxVar_oseba1" to match the regular expression ^[_a-z][a-z0-9_]*$.(À£»’ûÿÿÿÿ8”·ñøĞ1
+‡python:S117Ğ"cRename this local variable "checkboxVar_oseba2" to match the regular expression ^[_a-z][a-z0-9_]*$.(®øŠúûÿÿÿÿ8”·ñøĞ1
+ypython:S3776³"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(â¬é°ûÿÿÿÿ8”·ñøĞ1
+jpython:S3457Ü"EAdd replacement fields or use a normal string instead of an f-string.(ÅšÀøÿÿÿÿÿ8•·ñøĞ1
